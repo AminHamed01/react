@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Greyhound",
+      "year": "2020",
+      "img": "driver2.png",
+      "genre": "drama queen",
+      "description": "Le lorem ipsum est, en imprimerie…… "
+    },
+    {
+      "id": "2",
+      "title": "testaaa",
+      "year": "2020",
+      "img": "driver2.png",
+      "genre": "test",
+      "description": "aaaaaa"
+    },
+    {
+      "id": "570f",
+      "title": "tt",
+      "year": "54",
+      "img": "driver2.png",
+      "genre": "horror",
+      "description": "aaaaaa"
+    }
+  ]
+}
